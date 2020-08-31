@@ -24,7 +24,7 @@ C = Ct';
 [d,~] = size(X);
 layer_size = [d,5,5,l]; 
 max_epochs = 100; 
-batch_size = 10; 
+batch_size = 100; 
 
 
 
