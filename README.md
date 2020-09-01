@@ -1,6 +1,6 @@
 # Nural_Network
 
-The Neural Network is Based on the stochastic gradient decsent (SGD) algorithm, and was tested on 2 dimensional vectors. 
+The Neural Network is Based on the stochastic gradient descent  (SGD) algorithm, and was tested on 2 dimensional vectors. 
 The original intent was to include both standard as well as Residual Network (ResNet) steps, though in the end only the standard steps were fully implemented
 
 The network can be run from [testNN](https://github.com/edanyaar/Nural_Network/blob/master/test_NN.m), where the parameters such as the batch size and the size of each layer can be adjusted prior to each run. 
